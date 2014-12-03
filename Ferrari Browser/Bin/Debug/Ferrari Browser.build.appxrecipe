@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KIERANSPC</Machine>
+    <WindowsUser>Kieran</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>25b33c24-bacc-4811-a01c-ac13a673efc4</PackageIdentityName>
+    <IntermediateOutputPath>B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Ferrari Browser.dll">
+      <PackagePath>Ferrari Browser.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll">
+      <PackagePath>Microsoft.Phone.Controls.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\packages\WPtoolkit.4.2013.08.16\lib\wp8\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll">
+      <PackagePath>zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\FerrariLogo1b.png">
+      <PackagePath>FerrariLogo1b.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\feature.search.png">
+      <PackagePath>Images\feature.search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\questionmark.png">
+      <PackagePath>Images\questionmark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Toolkit.Content\ApplicationBar.Add.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Toolkit.Content\ApplicationBar.Cancel.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Toolkit.Content\ApplicationBar.Check.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Check.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Toolkit.Content\ApplicationBar.Delete.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Toolkit.Content\ApplicationBar.Select.png">
+      <PackagePath>Toolkit.Content\ApplicationBar.Select.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari250TestaRossa-1.JPG">
+      <PackagePath>Images\Ferrari250TestaRossa-1.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari250TestaRossa-2.jpg">
+      <PackagePath>Images\Ferrari250TestaRossa-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari250TestaRossa-3.jpg">
+      <PackagePath>Images\Ferrari250TestaRossa-3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari375America-1.jpg">
+      <PackagePath>Images\Ferrari375America-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari375America-2.jpg">
+      <PackagePath>Images\Ferrari375America-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari458Challenge-1.jpg">
+      <PackagePath>Images\Ferrari458Challenge-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari458Challenge-2.jpg">
+      <PackagePath>Images\Ferrari458Challenge-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari458Italia-1.jpg">
+      <PackagePath>Images\Ferrari458Italia-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari458Italia-2.jpg">
+      <PackagePath>Images\Ferrari458Italia-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari458Italia-3.jpg">
+      <PackagePath>Images\Ferrari458Italia-3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariCalifornia-1.jpg">
+      <PackagePath>Images\FerrariCalifornia-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariCalifornia-2.jpg">
+      <PackagePath>Images\FerrariCalifornia-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariCalifornia-3.jpg">
+      <PackagePath>Images\FerrariCalifornia-3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariEnzo-1.jpg">
+      <PackagePath>Images\FerrariEnzo-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariEnzo-2.jpg">
+      <PackagePath>Images\FerrariEnzo-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariF12Berlinetta-2.jpg">
+      <PackagePath>Images\FerrariF12Berlinetta-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariF12Berlinetta-1.jpg">
+      <PackagePath>Images\FerrariF12Berlinetta-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariF12Berlinetta-3.jpg">
+      <PackagePath>Images\FerrariF12Berlinetta-3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariF40-1.jpg">
+      <PackagePath>Images\FerrariF40-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariF40-2.jpg">
+      <PackagePath>Images\FerrariF40-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariF50-1.jpg">
+      <PackagePath>Images\FerrariF50-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariF50-2.jpg">
+      <PackagePath>Images\FerrariF50-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariFF-1.jpg">
+      <PackagePath>Images\FerrariFF-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariFF-2.jpg">
+      <PackagePath>Images\FerrariFF-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariGTLusso-2.jpg">
+      <PackagePath>Images\FerrariGTLusso-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari125s-2.jpg">
+      <PackagePath>Images\Ferrari125s-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari166MM-1.jpg">
+      <PackagePath>Images\Ferrari166MM-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\ferrari166mm-2.jpg">
+      <PackagePath>Images\ferrari166mm-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariBackground10.jpg">
+      <PackagePath>Images\FerrariBackground10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariGTLusso-1.jpg">
+      <PackagePath>Images\FerrariGTLusso-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariGTO-1.jpg">
+      <PackagePath>Images\FerrariGTO-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariGTO-2.jpg">
+      <PackagePath>Images\FerrariGTO-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariLaFerrari-1.jpg">
+      <PackagePath>Images\FerrariLaFerrari-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\FerrariLaFerrari-2.jpg">
+      <PackagePath>Images\FerrariLaFerrari-2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Images\Ferrari_125_S-1.jpg">
+      <PackagePath>Images\Ferrari_125_S-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\README_FIRST.txt">
+      <PackagePath>README_FIRST.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

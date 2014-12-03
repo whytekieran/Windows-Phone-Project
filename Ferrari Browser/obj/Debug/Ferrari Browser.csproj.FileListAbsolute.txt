@@ -1,0 +1,538 @@
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Assets\ApplicationIcon.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\resources.pri
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\AppxManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Ferrari Browser.build.appxrecipe
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Properties\WMAppManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\AppManifest.xaml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Ferrari_Browser_Debug_AnyCPU.xap
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\App.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\MainPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\Ferrari Browser.g.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\Ferrari_Browser.Resources.AppResources.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\Ferrari Browser.csproj.GenerateResource.Cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\priconfig.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\priconfig.xml.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\layout.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\layout.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\resources.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\resources.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\pri.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\pri.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\qualifiers.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\qualifiers.txt.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\ProjectArchitectures.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\MDILProjectFiles.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\XapCacheFile.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\SearchPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\InformationPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\aboutPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\webHelpPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Assets\ApplicationIcon.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\resources.pri
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\AppxManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Ferrari Browser.build.appxrecipe
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Properties\WMAppManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\App.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\AboutPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\InformationPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\MainPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\SearchPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\WebHelpPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.g.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\Ferrari_Browser.Resources.AppResources.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.csproj.GenerateResource.Cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\priconfig.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\priconfig.xml.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\layout.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\layout.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\resources.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\resources.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\pri.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\pri.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\qualifiers.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\qualifiers.txt.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\ProjectArchitectures.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\AppManifest.xaml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\Bin\Debug\Ferrari_Browser_Debug_AnyCPU.xap
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\MDILProjectFiles.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser - Copy\Ferrari Browser\obj\Debug\XapCacheFile.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\App.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\AboutPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\InformationPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\MainPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\SearchPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\WebHelpPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\Ferrari Browser.g.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\Ferrari_Browser.Resources.AppResources.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\Ferrari Browser.csproj.GenerateResource.Cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Assets\ApplicationIcon.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\resources.pri
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\AppxManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Ferrari Browser.build.appxrecipe
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Properties\WMAppManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\AppManifest.xaml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\Bin\Debug\Ferrari_Browser_Debug_AnyCPU.xap
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\priconfig.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\priconfig.xml.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\layout.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\layout.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\resources.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\resources.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\pri.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\pri.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\qualifiers.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\qualifiers.txt.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\ProjectArchitectures.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\MDILProjectFiles.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2Bind,FixBackgroundSelect)\Ferrari Browser\obj\Debug\XapCacheFile.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Assets\ApplicationIcon.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\resources.pri
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\AppxManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Ferrari Browser.build.appxrecipe
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Properties\WMAppManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\App.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\AboutPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\InformationPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\MainPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\SearchPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\WebHelpPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.g.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\Ferrari_Browser.Resources.AppResources.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.csproj.GenerateResource.Cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\priconfig.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\priconfig.xml.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\layout.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\layout.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\resources.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\resources.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\pri.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\pri.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\qualifiers.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\qualifiers.txt.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\ProjectArchitectures.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\AppManifest.xaml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\Bin\Debug\Ferrari_Browser_Debug_AnyCPU.xap
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\MDILProjectFiles.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\XapCacheFile.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\ImagesPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V2) - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.csprojResolveAssemblyReference.cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Assets\ApplicationIcon.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\resources.pri
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\AppxManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Ferrari Browser.build.appxrecipe
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Properties\WMAppManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\AppManifest.xaml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Ferrari_Browser_Debug_AnyCPU.xap
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\Ferrari Browser.csprojResolveAssemblyReference.cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\App.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\AboutPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\ImagesPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\InformationPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\MainPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\SearchPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\WebHelpPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\Ferrari Browser.g.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\Ferrari_Browser.Resources.AppResources.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\Ferrari Browser.csproj.GenerateResource.Cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\priconfig.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\priconfig.xml.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\layout.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\layout.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\resources.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\resources.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\pri.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\pri.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\qualifiers.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\qualifiers.txt.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\ProjectArchitectures.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\MDILProjectFiles.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu)\Ferrari Browser\obj\Debug\XapCacheFile.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Assets\ApplicationIcon.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\resources.pri
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\AppxManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Ferrari Browser.build.appxrecipe
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Properties\WMAppManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\AppManifest.xaml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Ferrari_Browser_Debug_AnyCPU.xap
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\App.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\AboutPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\ImagesPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\InformationPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\MainPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\SearchPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\WebHelpPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.g.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\Ferrari_Browser.Resources.AppResources.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.csproj.GenerateResource.Cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\priconfig.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\priconfig.xml.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\layout.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\layout.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\resources.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\resources.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\pri.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\pri.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\qualifiers.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\qualifiers.txt.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\ProjectArchitectures.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\MDILProjectFiles.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\XapCacheFile.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V3 ContextMenu) - Copy\Ferrari Browser\obj\Debug\Ferrari Browser.csprojResolveAssemblyReference.cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Assets\ApplicationIcon.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\resources.pri
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\AppxManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Ferrari Browser.build.appxrecipe
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Properties\WMAppManifest.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\AppManifest.xaml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Ferrari_Browser_Debug_AnyCPU.xap
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\Ferrari Browser.csprojResolveAssemblyReference.cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\App.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\AboutPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\ImagesPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\InformationPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\MainPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\SearchPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\WebHelpPage.g.cs
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\Ferrari Browser.g.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\Ferrari_Browser.Resources.AppResources.resources
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\Ferrari Browser.csproj.GenerateResource.Cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\Ferrari Browser.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\Ferrari Browser.pdb
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\priconfig.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\priconfig.xml.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\layout.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\layout.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\resources.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\resources.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\pri.resfiles
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\pri.resfiles.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\qualifiers.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\qualifiers.txt.intermediate
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\ProjectArchitectures.txt
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\MDILProjectFiles.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser(V4 ContextMenuBinded)\Ferrari Browser\obj\Debug\XapCacheFile.xml
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\Ferrari Browser.csprojResolveAssemblyReference.cache
+B:\Work\Software Development Year 2 GMIT\WindowsPhoneDev\Ferrari Browser\Ferrari Browser\obj\Debug\ImagesPage.g.cs

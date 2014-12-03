@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+    <comment>Controls the FlowDirection for all elements in the RootFrame. Set to the traditional direction of this resource file's language</comment>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>en-US</value>
+    <comment>Controls the Language and ensures that the font for all elements in the RootFrame aligns with the app's language. Set to the language code of this resource file's language.</comment>
+  </data>
+  <data name="ApplicationTitle" xml:space="preserve">
+    <value>Ferrari Browser</value>
+  </data>
+  <data name="SampleProperty" xml:space="preserve">
+    <value>Sample Runtime Property Value</value>
+  </data>
+  <data name="ferrari125s" xml:space="preserve">
+    <value>The Ferrari 125 S was the first vehicle produced and built by automaker Ferrari. It debuted on May 11, 1947 at the Piacenza racing circuit. It was a racing sports car and featured a V12 engine a trait it shared with most Ferrari cars of the following decades. This engine produced 118 bhp.
+The 125 S debuted at the Circuito di Piacenza, driven by Franco Cortese, but  was unable to finish the race despite a strong showing. Fourteen days later, the 125 S claimed Ferrari's first victory at the Grand Prix of Rome on Caracalla, where it was also driven by Cortese. The 125 S won six of its fourteen races in 1947</value>
+  </data>
+  <data name="FerrarisHistory" xml:space="preserve">
+    <value>Ferrari is an Italian luxury sports car manufacturer based in Maranello. 
+Founded by Enzo Ferrari in 1929, the company manufactured race cars before moving into production of street-legal vehicles in 1947.
+    The first Ferrari road car was the 1947 125 S, powered by a 1.5L V12 engine. Early in 1969, Fiat took a 50% stake in Ferrari and in 2008 they expanded that stake to 85%. 
+    In 1988, Enzo Ferrari oversaw the launch of the Ferrari F40, the last new Ferrari to be launched before his death later that year, and arguably one of the most famous supercars ever made.
+   Today Ferrari are worth approximatly $7.3billion and are generally seen as a symbol of speed, luxury and wealth.</value>
+  </data>
+  <data name="AboutBrowser" xml:space="preserve">
+    <value>The Ferrari Browser is an app which allows you to check out all the differant types of Ferrari's. A browser is included which allows you to visit and browse around the offical Ferrari website. This app is stickly a fan app. Resources, ie images and information where used from: wikepedia.com, ferrari.com and googleimages. This app is not intended for profit making purposes. </value>
+  </data>
+  <data name="AboutTheBrowser" xml:space="preserve">
+    <value>This browser is not designed to go to any site but the ferrari website. This app was designed as a fan app, some of the information you see in this app was taken from Ferrari.com so for more information visit there.</value>
+  </data>
+  <data name="ferrari166mm" xml:space="preserve">
+    <value>Designed for long distance competition, the 166 MM took its name from one of the world’s most famous road races, the Mille Miglia.
+The 166 MM was both extremely light and extremely dynamic whilst still maintaining significant structural stiffness.
+The 166 MM’s engine was also modified for run on “normal” commercially available fuel</value>
+  </data>
+  <data name="ferrari250GT" xml:space="preserve">
+    <value>The Ferrari 250 GT Lusso is a GT car which was manufactured by Italian automaker Ferrari from 1963 to 1964.
+ Keeping in line with the Ferrari tradition of that time, the 250 GT Lusso was designed by the Turinese coachbuilder Pininfarina, and bodied by Carrozzeria Scaglietti. Regarded by many as one of the most beautiful Ferraris ever made</value>
+  </data>
+  <data name="ferrari250TestaRossa" xml:space="preserve">
+    <value>The Ferrari TR, or 250 Testa Rossa, is a race car model built by Ferrari in the 1950s and 60s.
+These cars dominated their competitors, with variations winning the 24 Hours of Le Mans in 1958, 1960, and 1961.
+In all, thirty-four 250 Testa Rossas were built, from 1956 through 1961.
+Testa Rossa is the second most valuable Ferrari model, often valued at more than US$8,000,000."</value>
+  </data>
+  <data name="ferrari375America" xml:space="preserve">
+    <value>Ferrari America is a series of top-end Ferrari models built in the 1950s and 1960s. They were large touring cars with the largest V12 engines and often had custom bodywork.
+All America models used a live axle in the rear, were front-engined, and had worm and sector steering</value>
+  </data>
+  <data name="ferrari458Challenge" xml:space="preserve">
+    <value>The Ferrari 458 is a mid-engined sports car produced by the Italian sports car manufacturer Ferrari. The 458 replaced the Ferrari F430, and was first officially unveiled at the 2009 Frankfurt Motor Show.
+The 458 is powered by a 4.5 L (270 cu in) V8 engine derived from a shared Ferrari/Maserati design, producing 570 PS (419 kW; 562 hp)</value>
+  </data>
+  <data name="ferrari458Italia" xml:space="preserve">
+    <value>The Ferrari 458 is a mid-engined sports car produced by the Italian sports car manufacturer Ferrari.
+The 458 replaced the Ferrari F430, and was first officially unveiled at the 2009 Frankfurt Motor Show. The 458 is powered by a 4.5 L (270 cu in) V8 engine derived from a shared Ferrari/Maserati design, producing 570 PS (419 kW; 562 hp)"</value>
+  </data>
+  <data name="ferrariCalifornia" xml:space="preserve">
+    <value>The Ferrari California is a grand touring sports car produced by the Italian manufacturer Ferrari.
+It is a two door '2+2' hard top convertible. When originally released, the California was powered by a front-mid mounted gasoline direct injection 4.3 L (260 cu in) V8 with 460 PS (338 kW; 454 hp).</value>
+  </data>
+  <data name="ferrariEnzo" xml:space="preserve">
+    <value>The Enzo Ferrari is a 12 cylinder mid-engine berlinetta supercar named after the company's founder, Enzo Ferrari.
+It was built in 2002 using Formula One technology such as a carbon-fibre body, F1-style electrohydraulic shift transmission.  Also used are technologies not allowed in F1 such as active aerodynamics and traction control.
+The Enzo's V12 engine is the first of a new generation for Ferrari. It is based on the design of the V8  found in Maserati's Quattroporte. The Enzo can accelerate to 60 mph (97 km/h) in 3.14 seconds and can reach 100 mph (160 km/h) in 6.6 seconds.</value>
+  </data>
+  <data name="ferrariF12Berlinetta" xml:space="preserve">
+    <value>The Ferrari F12 berlinetta (also unofficially referred to as the F12 Berlinetta or the F12) is a front mid-engine rear-wheel-drive grand tourer produced by Italian sports car manufacturer Ferrari.
+The F12berlinetta, introduced to the public at the 2012 Geneva Motor Show, replaces the 599 series grand tourers.
+The naturally aspirated 6.3 litre Ferrari V12 engine in the F12berlinetta has won the International Engine of the Year Awards 2013 in the Best Performance category and Best Engine above 4.0 litres. The F12berlinetta was named The Supercar of the Year 2012  by car magazine Top Gear.</value>
+  </data>
+  <data name="ferrariF40" xml:space="preserve">
+    <value>The Ferrari F40 is a mid-engine, rear-wheel drive, two-door coupé sports car built from 1987 to 1992.
+It was designed to celebrate Ferrari's 40th anniversary and was the last Ferrari automobile personally approved by Enzo Ferrari.</value>
+  </data>
+  <data name="ferrariF50" xml:space="preserve">
+    <value>The Ferrari F50 is a mid-engined range-topping sports car made by Ferrari. The F50 was introduced in 1995. The car is a two door, two seat roadster with a removable hardtop.
+It has a 4.7 L naturally aspirated 60-valve V12 engine that was developed from the 3.5 L V12 used in the 1990 Ferrari 641 Formula One car</value>
+  </data>
+  <data name="ferrariFF" xml:space="preserve">
+    <value>The Ferrari FF (FF meaning 'Ferrari Four', for four seats and four-wheel drive) is a grand tourer presented by Ferrari on March 1, 2011 at the Geneva Motor Show.  It is Ferrari's first production four-wheel drive model. It replaced the 612 Scaglietti grand tourer. The FF has a top speed of 335 km/h (208 mph), and it accelerates from zero to 100 km/h (62 mph) in 3.7 seconds. The FF costs US$300,000</value>
+  </data>
+  <data name="ferrariGTO" xml:space="preserve">
+    <value>The Ferrari 250 GTO is a racing GT car which was produced by Ferrari from 1962 to 1964.
+The 250 GTO was designed to compete in GT racing. The engine was the Tipo 168/62 Comp. 3.0 L V12 as used in the 250 Testa Rossa.</value>
+  </data>
+  <data name="ferrariLaFerrari" xml:space="preserve">
+    <value>LaFerrari (also known by its project name, F150) is a limited production hybrid supercar built by Ferrari.
+The car and its name were officially unveiled at the 2013 Geneva Auto Show. LaFerrari is the first mild hybrid from Ferrari, providing the highest power output of any Ferrari whilst decreasing fuel consumption by 40 percent. LaFerrari's mid rear mounted 65° V12 Internal Combustion Engine has a 6.3 litre (6262 cc) capacity producing 800 PS (588 kW, 789 bhp)</value>
+  </data>
+</root>
